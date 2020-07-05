@@ -1,0 +1,2 @@
+git clone https://github.com/newpriyanka/test.git
+git remote add upstream https://github.com/newpriyanka/test.git
